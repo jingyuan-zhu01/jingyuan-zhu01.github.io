@@ -13,10 +13,11 @@ My master thesis was conducted under the supervision of [Gabriel Angelini-Knoll]
 
 My research interests include the following:
 
-Higher category and higher algebra, and their parametrised/equivariant variants;
-Algebraic K-theory and Hermitian K-theory for \infty-categories;
-Stable homotopy theory;
-Homotopical algebra.
+ - Higher category and higher algebra, and their parametrised/equivariant variants;
+ - Algebraic K-theory and Hermitian K-theory for \infty-categories;
+ - Stable homotopy theory;
+ - Homotopical algebra.
+
 Check here for a detailed statement.
 
 CV is available upon request.
