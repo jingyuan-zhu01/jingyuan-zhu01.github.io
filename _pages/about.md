@@ -7,6 +7,19 @@ redirect_from:
   - /about.html
 ---
 
+Hi! My name is Jingyuan Zhu, or in Chinese, “朱敬渊”. I recently graduated with a Master’s degree in Mathematics and Applications from Paris-Saclay University.
+
+My master thesis was conducted under the supervision of [Gabriel Angelini-Knoll](https://www.gangeliniknoll.com/) and [Geoffroy Horel](https://geoffroy.horel.org/). Previously, I was an undergraduate student at Tsinghua University, and [Weiyan Chen](https://www.weiyanc.com/) was my thesis supervisor then.
+
+My research interests include the following:
+
+Higher category and higher algebra, and their parametrised/equivariant variants;
+Algebraic K-theory and Hermitian K-theory for \infty-categories;
+Stable homotopy theory;
+Homotopical algebra.
+Check here for a detailed statement.
+
+CV is available upon request.
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
