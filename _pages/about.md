@@ -1,9 +1,11 @@
 ---
-layout: page
-title: About Me
-permalink: /about/
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
-
 
 Hi! My name is Jingyuan Zhu, or in Chinese, “朱敬渊”. I recently graduated with a Master’s degree in Mathematics and Applications from Paris-Saclay University.
 
