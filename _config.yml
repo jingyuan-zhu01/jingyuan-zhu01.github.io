@@ -26,9 +26,9 @@ author:
   avatar           : #
   name             : "Jingyuan Zhu"
   pronouns         : # example: "she/her"  
-  bio              : ""
-  location         : ""
-  employer         : ""
+  bio              : #
+  location         : #
+  employer         : #
   uri              : # URL
   email            : "zhujy19@gmail.com" 
 
