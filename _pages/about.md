@@ -1,12 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 Hi! My name is Jingyuan Zhu, or in Chinese, “朱敬渊”. I recently graduated with a Master’s degree in Mathematics and Applications from Paris-Saclay University.
 
 My master thesis was conducted under the supervision of [Gabriel Angelini-Knoll](https://www.gangeliniknoll.com/) and [Geoffroy Horel](https://geoffroy.horel.org/). Previously, I was an undergraduate student at Tsinghua University, and [Weiyan Chen](https://www.weiyanc.com/) was my thesis supervisor then.
